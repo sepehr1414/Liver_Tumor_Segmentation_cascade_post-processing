@@ -84,3 +84,9 @@ Models are evaluated on a held-out test set. The pipeline tracks:
 1.  **F1-Score:** Calculated independently for Liver and Tumor classes.
 2.  **Confusion Matrices:** Generated before and after post-processing to visualize the reduction in false positives and false negatives.
 3.  **Visual Overlays:** Generates side-by-side plots of the raw CT, Ground Truth, Raw Prediction, Post-processed Prediction, and Difference map.
+
+
+### Run on Kaggle
+You can view the full code, including the preprocessing pipeline and the model architecture, directly on Kaggle. No local installation is required!
+
+👉 **[View and run the Expression-DCGAN notebook here](https://www.kaggle.com/code/zacxxx/liver-tumor-segmentation-cascade-postprocessing)**
