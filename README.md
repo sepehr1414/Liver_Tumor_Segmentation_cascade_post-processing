@@ -89,4 +89,4 @@ Models are evaluated on a held-out test set. The pipeline tracks:
 ### Run on Kaggle
 You can view the full code, including the preprocessing pipeline and the model architecture, directly on Kaggle. No local installation is required!
 
-👉 **[View and run the Expression-DCGAN notebook here](https://www.kaggle.com/code/zacxxx/liver-tumor-segmentation-cascade-postprocessing)**
+👉 **[View and run the Liver tumor segmentation notebook here](https://www.kaggle.com/code/zacxxx/liver-tumor-segmentation-cascade-postprocessing)**
